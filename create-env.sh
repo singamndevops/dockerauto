@@ -17,7 +17,7 @@ docker run --name project$i -d -it --rm singamndevops/project /bin/bash
 echo "containername $i has been created#"
 
 
-echo "%%%%%%%%%%%%%%%%%%%%%%%%"
+echo "%%%%%%%%%%%%%%%%%%%%%%%%++"
 
 done
 
