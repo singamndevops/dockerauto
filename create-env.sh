@@ -6,7 +6,7 @@ echo "creating $cont_count containers......"
 
 sleep 2;
 
-for i in 'seq $cont_count'
+for i in `seq $cont_count`
 
 do
 	echo "%%%%%%%%%%%%%%%%%%%"
